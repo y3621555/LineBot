@@ -58,7 +58,7 @@ function ChangeToChinese (data){
 var date_ob = new Date();
 var hour = date_ob.getHours();
 var min = date_ob.getMinutes();
-//teset
+
 var jp = function() {
     request({
       url: "https://rate.bot.com.tw/xrt?Lang=zh-TW",

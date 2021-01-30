@@ -1,5 +1,5 @@
 
-//123
+
 module.exports = {
     testmessage:  {
         type: 'image',
