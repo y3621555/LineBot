@@ -1,0 +1,17 @@
+{
+  "name": "linebot2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "linebot": "^1.6.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
