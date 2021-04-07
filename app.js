@@ -91,7 +91,7 @@ function MorningTimeRun() {
 
 
     //早上打招呼 hour == 22 && min == 38 
-    if ( hour == 6 && min == 50&& count == 0  ){
+    if ( hour == 18 && min == 50&& count == 0  ){
         //var userId = 'Ufef5fd047128706847796a1512a50dcc';
         var sendMsg = `早安! 有愉快的一天`;
 
